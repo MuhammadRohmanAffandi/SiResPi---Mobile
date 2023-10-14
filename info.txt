@@ -1,0 +1,9 @@
+ganti json firebase
+ganti start aplikasi dari sigup
+tambah navigasi dengan getx
+tambah halaman yang sudah dibuat sebelumnya
+    cartuProfil
+    komentar
+    notivikasi
+    tampilanProfil
+    tampilanResep
